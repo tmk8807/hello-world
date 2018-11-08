@@ -1,2 +1,3 @@
 # hello-world
 starter stage
+I'm Trevor. I'm learning Python for the first time (well sort of, I used to learn the basics). I really want to develop a new skill that allows me to utilize my creative and intellectual potential. I've tried a few different languages and so far it's been a challenge and sometimes I'm not sure how I feel about the particular code or language I'm learning, but I want to keep going because I know that some of these early stages are going to be met with road blocks and limits to my understanding due to my newness. I hope that with practice, patience, and dillegience, I will see my skills in coding and programming start to take off and flourish.
